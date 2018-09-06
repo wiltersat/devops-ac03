@@ -7,11 +7,10 @@ def inicializar():
             tab.append(linha)
     return tab
 
- teste dsdasd
+def main( ):
     jogo = inicializar( )
     print (jogo)
 
 if __name__ == "__main__":
     main()
-
     
