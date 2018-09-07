@@ -1,4 +1,3 @@
-
 def inicializar():
     tab = [ ]
     for i in range(3):
@@ -8,7 +7,7 @@ def inicializar():
             tab.append(linha)
     return tab
 
-def main():
+def main()
     jogo = inicializar()
     print (jogo)
 
